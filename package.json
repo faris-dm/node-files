@@ -1,0 +1,17 @@
+{
+  "name": "express_demo",
+  "version": "1.0.0",
+  "description": "node https exerises",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gc": "nodemon server.js"
+  },
+  "author": "solo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
