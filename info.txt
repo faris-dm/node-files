@@ -7,8 +7,17 @@
     res.end(items)
    }
 
+
+
+  to responsed  we  use post
  
 
 
+07188307667
+
+
+@  to day we understand that  when we   make a server  and  make it lisen like 8000
+  not  write 8000 but 
+  http://localhost:8000   so it  give  as  alink for click and check
 
 
