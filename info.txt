@@ -25,4 +25,12 @@
    to find some  list of dependency use
    npm list --depth=0
 
+  
+   ""  when installing  a dependancy   there is like "nodemon" :"^4.6.4
+   ^:intersted in node  pajage version 4
+   ^4 means major :add amajor feature that break  the code  so we  call it major change
+   .6:minor: add some feture that does not  break a point
+   4:patch:  when we fix  some  bugs in that pakage  that did notbreak  the code 
+   "
+
 
