@@ -16,7 +16,7 @@ app.get("/contact", (req, res) => {
 
 const port = 5000;
 app.listen(port, () => {
-  console.log(`server active  on http://localhost:${port}`);
+  console.log(`server active on http://localhost:${port}`);
 });
 
 // const items = [
